@@ -1,7 +1,9 @@
 # -*- encoding: utf-8 -*-
 
 import unittest
+
 import kblue
+import kblue.services
 
 class Test_global(unittest.TestCase) :
 
