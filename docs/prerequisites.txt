@@ -1,1 +1,8 @@
-sudo apt-get install libgirepository1.0-dev
+1) dbus-python
+	<none>
+	
+2) pygobject
+	pycairo
+
+	sudo apt install libgirepository1.0-dev
+	sudo apt install libcairo2-dev
